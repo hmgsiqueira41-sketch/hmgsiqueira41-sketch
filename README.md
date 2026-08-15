@@ -1,7 +1,9 @@
 ## Bem-vindo(a) ao perfil do Henrique Garcia 😁
 
- <div>
-   <a href="https://github.com/hmgsiqueira41-sketch">
+
+<img width="934" height="790" alt="hmgsiqueira41-sketch_card" src="https://github.com/user-attachments/assets/7fea7e96-c35a-437b-bf23-5ff5d99e2c0a" />
+
+    
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hmgsiqueira41-sketch&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmgsiqueira41-sketch&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
